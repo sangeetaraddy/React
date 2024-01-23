@@ -1,0 +1,116 @@
+[
+    {
+        "id": 1,
+        "title": "Microsoft Power BI Certification Training Course",
+        "topic": "Includes: DAX, Data insights, Power BI Service, Report Servers &amp; more",
+        "includes": [
+            {
+                "id": 1,
+                "name": "Completion Certificate"
+            },
+            {
+                "id": 2,
+                "name": "Live Classes"
+            },
+            {
+                "id": 3,
+                "name": "Online access for training recordings"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "DevOps Certification Training Course",
+        "topic": "Includes Git, Jenkins, Ansible, Docker, Kubernetes, Terraform and more",
+        "includes": [
+            {
+                "id": 1,
+                "name": "Completion Certificate"
+            },
+            {
+                "id": 2,
+                "name": "Live Classes"
+            },
+            {
+                "id": 3,
+                "name": "Online access for training recordings"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "AWS Certification Training Course for Solutions Architect",
+        "details": "Learn AWS EC2, Route 53, Lambda, & many more",
+        "includes": [
+            {
+                "id": 1,
+                "name": "Completion Certificate"
+            },
+            {
+                "id": 2,
+                "name": "Live Classes"
+            },
+            {
+                "id": 3,
+                "name": "Online access for training recordings"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Microsoft Azure Cloud Master Training",
+        "details": "Includes 4 Live courses: AZ-104, AZ-204, AZ-303 & AZ-304, AZ-400 and more.",
+        "includes": [
+            {
+                "id": 1,
+                "name": "Completion Certificate"
+            },
+            {
+                "id": 2,
+                "name": "Live Classes"
+            },
+            {
+                "id":3,
+                "name": "Online access for training recordings"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Full Stack Web Developer Masters Program Course",
+        "details": "Includes 4 Live courses: Angular, React, Node.js, MongoDB and more.",
+        "includes": [
+            {
+                "id": 1,
+                "name": "Completion Certificate"
+            },
+            {
+                "id": 2,
+                "name": "Live Classes"
+            },
+            {
+                "id": 3,
+                "name": "Online access for training recordings"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Business Analyst Masters Course ",
+        "details": "Includes 11 courses: Statistical Analysis, MS SQL, Power BI, and more.",
+        "includes": [
+            {
+                "id": 1,
+                "name": "Completion Certificate"
+            },
+            {
+                "id": 2,
+                "name": "Live Classes"
+            },
+            {
+                "id": 3,
+                "name": "Online access for training recordings"
+            }
+        ]
+    }
+]
