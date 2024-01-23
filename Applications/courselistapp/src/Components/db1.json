@@ -40,7 +40,7 @@
     {
         "id": 3,
         "title": "AWS Certification Training Course for Solutions Architect",
-        "details": "Learn AWS EC2, Route 53, Lambda, & many more",
+        "topic": "Learn AWS EC2, Route 53, Lambda, & many more",
         "includes": [
             {
                 "id": 1,
@@ -59,7 +59,7 @@
     {
         "id": 4,
         "title": "Microsoft Azure Cloud Master Training",
-        "details": "Includes 4 Live courses: AZ-104, AZ-204, AZ-303 & AZ-304, AZ-400 and more.",
+        "topic": "Includes 4 Live courses: AZ-104, AZ-204, AZ-303 & AZ-304, AZ-400 and more.",
         "includes": [
             {
                 "id": 1,
@@ -78,7 +78,7 @@
     {
         "id": 5,
         "title": "Full Stack Web Developer Masters Program Course",
-        "details": "Includes 4 Live courses: Angular, React, Node.js, MongoDB and more.",
+        "topic": "Includes 4 Live courses: Angular, React, Node.js, MongoDB and more.",
         "includes": [
             {
                 "id": 1,
@@ -97,7 +97,7 @@
     {
         "id": 6,
         "title": "Business Analyst Masters Course ",
-        "details": "Includes 11 courses: Statistical Analysis, MS SQL, Power BI, and more.",
+        "topic": "Includes 11 courses: Statistical Analysis, MS SQL, Power BI, and more.",
         "includes": [
             {
                 "id": 1,

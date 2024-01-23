@@ -19,7 +19,7 @@ const CourseList = (props) => {
                                 {data.title}
                             </h3>
                             <div class="topic_more">
-                                {data.details}
+                                {data.topic}
                             </div>
                             <h4>Whats Included</h4>
                             <ul class="you_will_get ">
@@ -27,7 +27,7 @@ const CourseList = (props) => {
                                     displayWhatincludes
                                 }
                             </ul>
-                            <button>View Course Details</button>
+                            <button>Enquire</button>
                         </p>
                     </div>
                 </div>
