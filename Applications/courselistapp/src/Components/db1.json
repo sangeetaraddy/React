@@ -126,7 +126,8 @@
       "name": "test user",
       "contact": "245677",
       "email": "test@gmail.com",
-      "course": "Azure"
+      "course": "Azure",
+      "id": "7d5e"
     },
     {
       "id": "b693",
@@ -145,6 +146,15 @@
       "email": "shr.sangeetaraddy@gmail.com",
       "state": "karnataka",
       "country": "USA"
+    },
+    {
+      "id": "eb84",
+      "course": "AWS Certification Training Course for Solutions Architect",
+      "name": "Sangeeta Raddy",
+      "contact": "9535621856",
+      "email": "sangeeta.h.radder@gmail.com",
+      "country": "USA",
+      "state": "karnataka"
     }
   ]
 }
