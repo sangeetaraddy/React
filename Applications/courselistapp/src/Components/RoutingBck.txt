@@ -13,8 +13,7 @@ class Routing extends Component {
                     <Header></Header>
                     <Routes>
                         <Route path="/" Component={Home} ></Route>
-                        <Route path="/Home" Component={Home} ></Route>
-                        <Route path="/Enquire/:id" Component={EnquireForm} ></Route>
+                        <Route path="/Enquire/:courseId" Component={EnquireForm} ></Route>
                         <Route path="/EnquiriesList" Component={UserEnquiries}></Route>
                     </Routes>
                 </div>
