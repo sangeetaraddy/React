@@ -3,37 +3,22 @@ import './Home.css';
 import JSON from './db1.json';
 import CourseList from "./CourseList";
 
+const url="http://localhost:6700/course";
 
 class Home extends Component {
     constructor() {
         super();
-        this.state = { data: JSON };
+        this.state = { data: {} };
     }
-    renderCourseList = ({ courseList }) => {
-        if (courseList) {
-            return courseList.map((data) => {
-                return (
-                    <div key={data.id} className="col-lg-4 col-md-6 col-sm-12 col-xs-12">
-                        <div className="course_card_info">
-                            <p>
-                                <h3 className="title">
-                                    {data.title}
-                                </h3>
-                                <div class="topic_more">
-                                    {data.details}
-                                </div>
-                                <h4>Whats Included</h4>
-                                <ul class="you_will_get ">
-                                    <li>includes.name</li>
-                                </ul>
-                                <button>View Course Details</button>
-                            </p>
-                        </div>
-                    </div>
-                );
-            });
-        }
-    };
+    componentDidMount()
+    {
+        fetch(url,{method:'GET'})
+        .then((response)=>response.json())
+        .then((data)=>{
+            this.setState({course:data})
+        })
+    }
+
     render() {
 
         return (
@@ -49,7 +34,7 @@ class Home extends Component {
                 <div className="container">
                     <h2 className="home_page_title_section">List Of Courses</h2>
                     <div className="row">
-                        <CourseList data={this.state.data}></CourseList>
+                        <CourseList data={this.state.course}></CourseList>
                     </div>
                 </div>
             </div>

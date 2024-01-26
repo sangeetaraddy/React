@@ -1,5 +1,6 @@
 import React from "react";
 import './Home.css';
+import { Link } from 'react-router-dom'
 
 const CourseList = (props) => {
     if (props.data) {
@@ -27,7 +28,7 @@ const CourseList = (props) => {
                                     displayWhatincludes
                                 }
                             </ul>
-                            <button>Enquire</button>
+                            <Link className="btn course_card_info_Link"  to={`/Enquire/${data.id}`} >Enquire</Link >
                         </p>
                     </div>
                 </div>

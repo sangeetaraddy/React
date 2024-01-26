@@ -1,10 +1,5 @@
 import React from "react";
 
-// class Tasks extends React.Component {
-//     render() {
-//         return (<div></div>);
-//     }
-// }
 const Tasks = (props) => {
     const taskList = props.taskdata.map((data) => {
         return (
