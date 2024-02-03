@@ -15,8 +15,7 @@ import Products from './MusicComponents/Products';
 function App() {
   return (
     <div>
-       <Header/>
-       <Products/>
+      <h1>Home</h1>
     </div>
   );
 }
