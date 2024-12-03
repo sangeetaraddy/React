@@ -1,0 +1,171 @@
+{
+  "course": [
+    {
+      "id": "1",
+      "price": "$200",
+      "title": "Microsoft Power BI Certification Training Course",
+      "topic": "Includes: DAX, Data insights, Power BI Service, Report Servers &amp; more",
+      "includes": [
+        {
+          "id": 1,
+          "name": "Completion Certificate"
+        },
+        {
+          "id": 2,
+          "name": "Live Classes"
+        },
+        {
+          "id": 3,
+          "name": "Online access for training recordings"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "price": "$300",
+      "title": "DevOps Certification Training Course",
+      "topic": "Includes Git, Jenkins, Ansible, Docker, Kubernetes, Terraform and more",
+      "includes": [
+        {
+          "id": 1,
+          "name": "Completion Certificate"
+        },
+        {
+          "id": 2,
+          "name": "Live Classes"
+        },
+        {
+          "id": 3,
+          "name": "Online access for training recordings"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "price": "$400",
+      "title": "AWS Certification Training Course for Solutions Architect",
+      "topic": "Learn AWS EC2, Route 53, Lambda, & many more",
+      "includes": [
+        {
+          "id": 1,
+          "name": "Completion Certificate"
+        },
+        {
+          "id": 2,
+          "name": "Live Classes"
+        },
+        {
+          "id": 3,
+          "name": "Online access for training recordings"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "price": "$500",
+      "title": "Microsoft Azure Cloud Master Training",
+      "topic": "Includes 4 Live courses: AZ-104, AZ-204, AZ-303 & AZ-304, AZ-400 and more.",
+      "includes": [
+        {
+          "id": 1,
+          "name": "Completion Certificate"
+        },
+        {
+          "id": 2,
+          "name": "Live Classes"
+        },
+        {
+          "id": 3,
+          "name": "Online access for training recordings"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "price": "$200",
+      "title": "Full Stack Web Developer Masters Program Course",
+      "topic": "Includes 4 Live courses: Angular, React, Node.js, MongoDB and more.",
+      "includes": [
+        {
+          "id": 1,
+          "name": "Completion Certificate"
+        },
+        {
+          "id": 2,
+          "name": "Live Classes"
+        },
+        {
+          "id": 3,
+          "name": "Online access for training recordings"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "price": "$300",
+      "title": "Business Analyst Masters Course ",
+      "topic": "Includes 11 courses: Statistical Analysis, MS SQL, Power BI, and more.",
+      "includes": [
+        {
+          "id": 1,
+          "name": "Completion Certificate"
+        },
+        {
+          "id": 2,
+          "name": "Live Classes"
+        },
+        {
+          "id": 3,
+          "name": "Online access for training recordings"
+        }
+      ]
+    }
+  ],
+  "enquiries": [
+    {
+      "name": "test user",
+      "contact": "245677",
+      "email": "test@gmail.com",
+      "course": "Azure",
+      "id": "7d5e"
+    },
+    {
+      "id": "b693",
+      "course": "Full Stack Web Developer Masters Program Course",
+      "name": "Sangeeta Radder",
+      "contact": "8187825663",
+      "email": "shr.sangeetaraddy@gmail.com",
+      "state": "karnataka",
+      "country": "India"
+    },
+    {
+      "id": "b6d1",
+      "course": "DevOps Certification Training Course",
+      "name": "raghavendra radder",
+      "contact": "9537655444",
+      "email": "shr.sangeetaraddy@gmail.com",
+      "state": "karnataka",
+      "country": "USA"
+    },
+    {
+      "id": "eb84",
+      "course": "AWS Certification Training Course for Solutions Architect",
+      "name": "Sangeeta Raddy",
+      "contact": "9535621856",
+      "email": "sangeeta.h.radder@gmail.com",
+      "country": "USA",
+      "state": "karnataka"
+    },
+    {
+      "id": "9e30",
+      "name": "DevOps Certification Training Course",
+      "contact": "9535621856",
+      "email": "sangeeta.radder@socgen.com",
+      "state": "Karnataka"
+    },
+    {
+      "id": "dbeb",
+      "name": "Full Stack Web Developer Masters Program Course"
+    }
+  ]
+}

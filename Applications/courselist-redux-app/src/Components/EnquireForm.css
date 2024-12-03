@@ -1,0 +1,29 @@
+.text-banner-title {
+    text-transform: uppercase;
+    color: #3e4152;
+    letter-spacing: .1em;
+    font-size: 1.2em;
+    max-height: 5em;
+    font-weight: 700;
+}
+
+.text-banner-subtitle {
+    color: #7e818c;
+    margin-bottom: 30px;
+}
+
+label {
+    color: #7e818c;
+    font-weight:600;
+}
+
+hr {
+    border-top: 1px solid #7e818c
+}
+.course-learn-list {
+    background-color: white;
+    padding: 20px 20px 20px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}

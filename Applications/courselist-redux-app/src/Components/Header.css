@@ -1,0 +1,106 @@
+.nav-header-logoContainer {
+    float: left;
+    height: inherit;
+    margin-left: 4%;
+}
+.nav-header-navbar {
+    display: block;
+    float: left;
+    line-height: 31px;
+    height: 36px;
+    margin: 0 0 0 3.5%;
+}
+.nav-header-main {
+    padding: 0 17px 28px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    letter-spacing: .3px;
+    color: #282c3f;
+    border-bottom: none;
+    -webkit-transition: left .2s ease-out,width .2s ease-out;
+    transition: left .2s ease-out,width .2s ease-out;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.nav-header-query>input.nav-header-searchBar{
+    float: left;
+    font-size: 14px;
+    height: 20px;
+    line-height: 24px;
+    color: #696e79;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    padding: 8px 10px 10px;
+    margin: 0;
+    outline: 0;
+    border: 1px solid #f5f5f6;
+    border-radius: 0 4px 4px 0;
+    border-left: 0;
+    background: #f5f5f6;
+}
+a.nav-header-submit {
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    display: inline-block;
+    height: 28px;
+    width: 40px;
+    text-align: center;
+    padding: 8px 0 2px;
+    background: #f5f5f6;
+    border: 1px solid #f5f5f6;
+    border-right: none;
+    border-radius: 4px 0 0 4px;
+    position: absolute;
+    left: -41px;
+}
+.nav-header-query>input.nav-header-searchBar {
+    width: 95%;
+}
+.nav-header-iconSearch {
+    display: inline-block;
+}
+.course-sprite {
+    background-size: 1404px 105px;
+    display: inline-block;
+    color: #696e79;
+}
+.sprites-search {
+    width: 21px;
+    height: 21px;
+    background-position: -754px 0;
+}
+.nav-header-navLinks {
+    float: left;
+}
+.nav-header-navContent {
+    float: left;
+    border: hidden;
+    text-align: center;
+}
+.nav-header-query, .nav-header-queryPincode {
+    width: 400px;
+    float: right;
+    line-height: 0;
+    position: relative;
+}
+.nav-header-actions {
+    float: right;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    line-height: 0;
+    height: 40px;
+    margin: 20px 30px 0 10px;
+}
+.nav-header-user {
+    position: relative;
+    height: 60px;
+    margin: 0 20px 0 15px;
+}
+.nav-header-logo {
+    font-family: cursive;
+    font-weight: bold;
+    color: #f3298f;
+    font-size: 20px;
+}
