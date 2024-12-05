@@ -1,0 +1,10 @@
+.bg-white {
+  border-bottom: 1.5px solid grey;
+  --mdb-bg-opacity: 1;
+  background-color: rgba(var(--mdb-white-rgb), var(--mdb-bg-opacity)) !important;
+}
+
+.shadow-2 {
+  box-shadow: 0 0px 3px 0 rgba(var(--mdb-box-shadow-color-rgb), 0.07), 
+  0 2px 2px 0 rgba(var(--mdb-box-shadow-color-rgb), 0.04) !important;
+}
