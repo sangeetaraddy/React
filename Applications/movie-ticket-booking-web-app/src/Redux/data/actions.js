@@ -24,17 +24,17 @@ const getMovieFailure = (error) => {
 
 export const getMovies = (id) => (dispatch) => {
   dispatch(getMovieRequest());
+  debugger;
   return axios
     .get(`http://localhost:8500/upcomingMovieData/${id}`)
     .then((res) => {
+      debugger;
       dispatch(getMovieSuccess(res.data));
     })
     .catch((err) => dispatch(getMovieFailure(err)));
 };
 
 export const putMovies = (id, param) => (dispatch) => {
-  // console.log(id, param);
-  // dispatch(getMovieRequest());
   return axios
     .patch(`http://localhost:8500/upcomingMovieData/${id}`, param)
     .then((res) => {

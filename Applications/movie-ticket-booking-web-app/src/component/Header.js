@@ -23,9 +23,12 @@ const Header = () => {
                 </div>
             </div>
             <div className="secondNav">
-                <div className="link" >
-                    Latest Movies
-                </div>
+                <Link to="/latestmovies">
+                    <div className="link" >
+                        Latest Movies
+                    </div>
+                </Link>
+
                 <div className="link" >
 
                     Upcoming Movies

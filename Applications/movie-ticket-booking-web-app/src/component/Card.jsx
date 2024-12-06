@@ -1,6 +1,8 @@
-import React from 'react'
-import { useHistory } from 'react-router';
+import React,{useEffect} from 'react';
 import './Card.css'
+import { useNavigate } from "react-router-dom";
+import { useDispatch } from 'react-redux';
+import { getMovies } from '../Redux/data/actions';
 
 const Card = ({ moviePosterUrl = "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@like_202006280402.png,ox-24,oy-617,ow-29:ote-MWsgbGlrZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00096384-yuwlfbxsjm-portrait.jpg"
     , movie_name = "Wonder Women"
@@ -12,12 +14,17 @@ const Card = ({ moviePosterUrl = "https://in.bmscdn.com/discovery-catalog/events
     },
     {
         "genre": "Fantasy"
-    }], _id }) => {
+    }], id }) => {
 
-    //const history = useHistory();
+    let navigate = useNavigate();
+
+    const dispatch = useDispatch();
+
     const handleChange = () => {
-       // history.push(`/movies/${_id}`)
+       dispatch(getMovies(id));
+       navigate(`/movie/${id}`)
     }
+
     return (
         <div onClick={handleChange} className="card">
             <img src={moviePosterUrl} alt={movie_name} />

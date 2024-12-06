@@ -15,7 +15,9 @@
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": false,
+            "duration": "2hr"
         },
         {
             "id": 172446,
@@ -32,7 +34,9 @@
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": false,
+            "duration": "2hr"
         },
         {
             "id": 184921,
@@ -47,7 +51,9 @@
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": false,
+            "duration": "2hr"
         },
         {
             "id": 184313,
@@ -62,7 +68,9 @@
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": false,
+            "duration": "2hr"
         },
         {
             "id": 175613,
@@ -77,7 +85,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": false,
+            "duration": "2hr"
         },
         {
             "id": 175304,
@@ -93,7 +103,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": false,
+            "duration": "2hr"
         },
         {
             "id": 154961,
@@ -112,7 +124,9 @@
                 "Tamil",
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": false,
+            "duration": "2hr"
         },
         {
             "id": 171644,
@@ -129,7 +143,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": false,
+            "duration": "2hr"
         },
         {
             "id": 184544,
@@ -145,7 +161,9 @@
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": false,
+            "duration": "2hr"
         },
         {
             "id": 183624,
@@ -160,7 +178,9 @@
             "language_group": [
                 "Marathi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": false,
+            "duration": "2hr"
         },
         {
             "id": 154577,
@@ -180,7 +200,9 @@
                 "Hindi",
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": false,
+            "duration": "2hr"
         },
         {
             "id": 179338,
@@ -196,7 +218,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 165834,
@@ -212,7 +236,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 174847,
@@ -228,7 +254,9 @@
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 184105,
@@ -244,7 +272,9 @@
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 170414,
@@ -261,7 +291,9 @@
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177622,
@@ -276,7 +308,9 @@
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 160421,
@@ -296,7 +330,9 @@
                 "Tamil",
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 167247,
@@ -316,7 +352,9 @@
                 "Tamil",
                 "Kannada"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 184238,
@@ -333,7 +371,9 @@
             "language_group": [
                 "Marathi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 184258,
@@ -350,7 +390,9 @@
             "language_group": [
                 "Marathi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 183387,
@@ -366,7 +408,9 @@
             "language_group": [
                 "Bengali"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 184244,
@@ -381,7 +425,9 @@
             "language_group": [
                 "Bengali"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 169965,
@@ -397,7 +443,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":false
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "1hr"
         },
         {
             "id": 179352,
@@ -413,7 +461,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":false
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "1hr"
         },
         {
             "id": 183615,
@@ -429,7 +479,9 @@
             "language_group": [
                 "Kannada"
             ],
-            "isSubscribed": 0,  "is_premier":false
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "1hr"
         },
         {
             "id": 180837,
@@ -444,7 +496,9 @@
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":false
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "1hr"
         },
         {
             "id": 177589,
@@ -459,7 +513,9 @@
             "language_group": [
                 "Marathi"
             ],
-            "isSubscribed": 0,  "is_premier":false
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "1hr"
         },
         {
             "id": 182282,
@@ -474,7 +530,9 @@
             "language_group": [
                 "Gujarati"
             ],
-            "isSubscribed": 0,  "is_premier":false
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "1hr"
         },
         {
             "id": 150661,
@@ -490,7 +548,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":false
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "1hr"
         },
         {
             "id": 161066,
@@ -509,7 +569,9 @@
                 "Tamil",
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":false
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "1hr"
         },
         {
             "id": 169533,
@@ -525,7 +587,9 @@
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":false
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "1hr"
         },
         {
             "id": 175639,
@@ -543,7 +607,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":false
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "1hr"
         },
         {
             "id": 173067,
@@ -560,7 +626,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":false
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "1hr"
         },
         {
             "id": 185128,
@@ -576,7 +644,9 @@
             "language_group": [
                 "Gujarati"
             ],
-            "isSubscribed": 0,  "is_premier":false
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "1hr"
         },
         {
             "id": 170628,
@@ -591,7 +661,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":false
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "1hr"
         },
         {
             "id": 181737,
@@ -607,7 +679,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":false
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "1hr"
         },
         {
             "id": 155159,
@@ -623,7 +697,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 169393,
@@ -641,7 +717,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 178293,
@@ -657,7 +735,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 169133,
@@ -673,7 +753,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 185155,
@@ -688,7 +770,9 @@
             "language_group": [
                 "Gujarati"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 167249,
@@ -703,7 +787,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 175599,
@@ -718,7 +804,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177845,
@@ -733,7 +821,9 @@
             "language_group": [
                 "Marathi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 167607,
@@ -749,7 +839,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 158856,
@@ -764,7 +856,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 175894,
@@ -781,7 +875,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 175640,
@@ -797,7 +893,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 178253,
@@ -812,7 +910,9 @@
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 173094,
@@ -828,7 +928,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 155397,
@@ -848,7 +950,9 @@
                 "Tamil",
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 183239,
@@ -863,7 +967,9 @@
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 181785,
@@ -879,7 +985,9 @@
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 181125,
@@ -895,7 +1003,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 179325,
@@ -910,7 +1020,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 178434,
@@ -926,7 +1038,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 170703,
@@ -941,7 +1055,9 @@
             "language_group": [
                 "Punjabi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 160412,
@@ -957,7 +1073,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 143010,
@@ -977,7 +1095,9 @@
                 "Kannada",
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177619,
@@ -997,7 +1117,9 @@
                 "Tamil",
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 163468,
@@ -1014,7 +1136,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 168613,
@@ -1034,7 +1158,9 @@
                 "Tamil",
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 169449,
@@ -1055,7 +1181,9 @@
                 "Kannada",
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 179342,
@@ -1070,7 +1198,9 @@
             "language_group": [
                 "Punjabi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 179347,
@@ -1085,7 +1215,9 @@
             "language_group": [
                 "Punjabi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 179230,
@@ -1100,7 +1232,9 @@
             "language_group": [
                 "Punjabi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 172573,
@@ -1122,7 +1256,9 @@
                 "Malayalam",
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 170481,
@@ -1137,7 +1273,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 169288,
@@ -1153,7 +1291,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 166889,
@@ -1169,7 +1309,9 @@
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 155396,
@@ -1189,7 +1331,9 @@
                 "Tamil",
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 166278,
@@ -1209,7 +1353,9 @@
                 "Tamil",
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 167821,
@@ -1226,7 +1372,9 @@
                 "Telugu",
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 163787,
@@ -1242,7 +1390,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 155039,
@@ -1258,7 +1408,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 160947,
@@ -1277,7 +1429,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 166238,
@@ -1294,7 +1448,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 172868,
@@ -1312,7 +1468,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 172413,
@@ -1329,7 +1487,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 178611,
@@ -1344,7 +1504,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 161358,
@@ -1361,7 +1523,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 178225,
@@ -1376,7 +1540,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 165236,
@@ -1394,7 +1560,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 175697,
@@ -1409,7 +1577,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 174744,
@@ -1426,7 +1596,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 169730,
@@ -1441,7 +1613,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 175886,
@@ -1457,7 +1631,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 155394,
@@ -1474,7 +1650,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 164922,
@@ -1486,12 +1664,14 @@
                 "Crime",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 171053,
@@ -1501,12 +1681,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 162506,
@@ -1517,12 +1699,14 @@
                 "Drama",
                 "Romance"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 153249,
@@ -1532,12 +1716,14 @@
             "movie_genre": [
                 "Biography"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 152788,
@@ -1548,12 +1734,14 @@
                 "Action",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 168694,
@@ -1563,12 +1751,14 @@
             "movie_genre": [
                 "Action"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 168691,
@@ -1578,12 +1768,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 153219,
@@ -1594,12 +1786,14 @@
                 "Action",
                 "Superhero"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 168173,
@@ -1610,12 +1804,14 @@
                 "Crime",
                 "Suspense"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 153602,
@@ -1626,12 +1822,14 @@
                 "Action",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 161614,
@@ -1642,12 +1840,14 @@
                 "Action",
                 "Romance"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 144576,
@@ -1659,12 +1859,14 @@
                 "Adventure",
                 "Fantasy"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 175206,
@@ -1675,12 +1877,14 @@
                 "Thriller",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 175744,
@@ -1691,12 +1895,14 @@
                 "Action",
                 "Horror"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 172590,
@@ -1706,12 +1912,14 @@
             "movie_genre": [
                 "Horror"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 178018,
@@ -1724,12 +1932,14 @@
                 "Sci-Fi",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 178607,
@@ -1739,12 +1949,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 169433,
@@ -1755,12 +1967,14 @@
                 "Action",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 175205,
@@ -1770,12 +1984,14 @@
             "movie_genre": [
                 "Horror"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 176330,
@@ -1787,12 +2003,14 @@
                 "Horror",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 170631,
@@ -1802,12 +2020,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177990,
@@ -1817,12 +2037,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 167600,
@@ -1832,14 +2054,16 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "Tamil",
                 "Telugu",
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 155163,
@@ -1850,12 +2074,14 @@
                 "Action",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 172596,
@@ -1865,12 +2091,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 173721,
@@ -1880,12 +2108,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "Marathi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 146781,
@@ -1896,12 +2126,14 @@
                 "Action",
                 "War"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 2,
             "language_group": [
                 "Punjabi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 184454,
@@ -1918,7 +2150,9 @@
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 185101,
@@ -1935,7 +2169,9 @@
             "language_group": [
                 "Punjabi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 166630,
@@ -1951,7 +2187,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177292,
@@ -1967,7 +2205,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 184266,
@@ -1982,7 +2222,9 @@
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 180039,
@@ -1998,7 +2240,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 166133,
@@ -2013,7 +2257,9 @@
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 157970,
@@ -2030,7 +2276,9 @@
             "language_group": [
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 179238,
@@ -2046,7 +2294,9 @@
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 185093,
@@ -2062,7 +2312,9 @@
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177853,
@@ -2079,7 +2331,9 @@
                 "Hindi",
                 "Punjabi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 170418,
@@ -2097,7 +2351,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 169705,
@@ -2113,7 +2369,9 @@
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 160754,
@@ -2129,7 +2387,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 181781,
@@ -2144,7 +2404,9 @@
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 162325,
@@ -2161,7 +2423,9 @@
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 184461,
@@ -2177,7 +2441,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 182698,
@@ -2193,7 +2459,9 @@
             "language_group": [
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 169169,
@@ -2209,7 +2477,9 @@
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 168321,
@@ -2224,7 +2494,9 @@
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 179132,
@@ -2240,7 +2512,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 180042,
@@ -2255,7 +2529,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 159176,
@@ -2271,7 +2547,9 @@
             "language_group": [
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 181836,
@@ -2288,7 +2566,9 @@
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 178251,
@@ -2303,7 +2583,9 @@
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 181183,
@@ -2318,7 +2600,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 173003,
@@ -2334,7 +2618,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 170763,
@@ -2350,7 +2636,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 171264,
@@ -2365,7 +2653,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 181742,
@@ -2381,7 +2671,9 @@
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 185012,
@@ -2398,7 +2690,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 165129,
@@ -2416,7 +2710,9 @@
                 "Hindi",
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 183911,
@@ -2436,7 +2732,9 @@
                 "Tamil",
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177593,
@@ -2452,7 +2750,9 @@
             "language_group": [
                 "Punjabi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 182505,
@@ -2468,7 +2768,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 178023,
@@ -2486,7 +2788,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 179232,
@@ -2502,7 +2806,9 @@
             "language_group": [
                 "Punjabi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 178565,
@@ -2518,7 +2824,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 175195,
@@ -2533,7 +2841,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 165830,
@@ -2556,7 +2866,9 @@
                 "Malayalam",
                 "Bengali"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 164684,
@@ -2573,7 +2885,9 @@
             "language_group": [
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 181726,
@@ -2589,7 +2903,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 174464,
@@ -2606,7 +2922,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 176735,
@@ -2623,7 +2941,9 @@
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 176276,
@@ -2638,7 +2958,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 183233,
@@ -2653,7 +2975,9 @@
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 161832,
@@ -2663,12 +2987,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Kannada"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 175810,
@@ -2678,12 +3004,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Kannada"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 144463,
@@ -2694,12 +3022,14 @@
                 "Adventure",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Kannada"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 178313,
@@ -2709,12 +3039,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Kannada"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 183379,
@@ -2726,12 +3058,14 @@
                 "Drama",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Kannada"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 143003,
@@ -2741,12 +3075,14 @@
             "movie_genre": [
                 "Action"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Kannada"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177709,
@@ -2756,12 +3092,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Kannada"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 175504,
@@ -2772,12 +3110,14 @@
                 "Action",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Kannada"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 161691,
@@ -2789,7 +3129,7 @@
                 "Drama",
                 "Period"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Kannada",
@@ -2798,7 +3138,9 @@
                 "Telugu",
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 157420,
@@ -2810,7 +3152,7 @@
                 "Drama",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Kannada",
@@ -2819,7 +3161,9 @@
                 "Telugu",
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 167040,
@@ -2829,12 +3173,14 @@
             "movie_genre": [
                 "Suspense"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Kannada"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 178315,
@@ -2847,12 +3193,14 @@
                 "Period",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Kannada"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 169809,
@@ -2862,12 +3210,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Kannada"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 183372,
@@ -2877,7 +3227,7 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Kannada",
@@ -2887,7 +3237,9 @@
                 "Telugu",
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 156188,
@@ -2899,12 +3251,14 @@
                 "Romance",
                 "Comedy"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177733,
@@ -2916,12 +3270,14 @@
                 "Historical",
                 "War"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 167662,
@@ -2931,14 +3287,16 @@
             "movie_genre": [
                 "Biography"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi",
                 "Tamil",
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 142488,
@@ -2950,7 +3308,7 @@
                 "Action",
                 "Epic"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi",
@@ -2959,7 +3317,9 @@
                 "Kannada",
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 171321,
@@ -2969,12 +3329,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177764,
@@ -2984,12 +3346,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 152956,
@@ -2999,12 +3363,14 @@
             "movie_genre": [
                 "Romance"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 161756,
@@ -3014,12 +3380,14 @@
             "movie_genre": [
                 "Creature-Comedy"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177766,
@@ -3030,12 +3398,14 @@
                 "Horror",
                 "Comedy"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 161366,
@@ -3047,12 +3417,14 @@
                 "Adventure",
                 "Fantasy"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 179686,
@@ -3063,12 +3435,14 @@
                 "Drama",
                 "Physiological"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 144126,
@@ -3079,12 +3453,14 @@
                 "Action",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 143253,
@@ -3095,12 +3471,14 @@
                 "Romance",
                 "Comedy"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 182354,
@@ -3110,12 +3488,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 173914,
@@ -3125,12 +3505,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 163216,
@@ -3141,12 +3523,14 @@
                 "Action",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 159190,
@@ -3156,12 +3540,14 @@
             "movie_genre": [
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 142506,
@@ -3172,12 +3558,14 @@
                 "Horror",
                 "Comedy"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 145509,
@@ -3189,12 +3577,14 @@
                 "War",
                 "Action"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 165461,
@@ -3204,12 +3594,14 @@
             "movie_genre": [
                 "Horror"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 144539,
@@ -3219,12 +3611,14 @@
             "movie_genre": [
                 "Biography"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 161162,
@@ -3235,12 +3629,14 @@
                 "Comedy",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 169900,
@@ -3250,13 +3646,15 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi",
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 144465,
@@ -3267,12 +3665,14 @@
                 "Thriller",
                 "Mystery"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 176357,
@@ -3282,12 +3682,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 179732,
@@ -3297,12 +3699,14 @@
             "movie_genre": [
                 "Action"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 170417,
@@ -3312,12 +3716,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177027,
@@ -3327,14 +3733,16 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi",
                 "English",
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 144134,
@@ -3344,12 +3752,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 172792,
@@ -3359,12 +3769,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 172789,
@@ -3374,12 +3786,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 171687,
@@ -3389,12 +3803,14 @@
             "movie_genre": [
                 "Comedy"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 162742,
@@ -3406,12 +3822,14 @@
                 "Crime",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 161030,
@@ -3422,12 +3840,14 @@
                 "Action",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 159640,
@@ -3438,12 +3858,14 @@
                 "Dark Comedy",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 171327,
@@ -3453,13 +3875,15 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi",
                 "Bengali"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177731,
@@ -3470,12 +3894,14 @@
                 "Action",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 174008,
@@ -3487,12 +3913,14 @@
                 "Action",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 183788,
@@ -3503,7 +3931,7 @@
                 "Fantasy",
                 "Mythological"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi",
@@ -3512,7 +3940,9 @@
                 "Kannada",
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 173090,
@@ -3522,13 +3952,15 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi",
                 "Gujarati"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 170761,
@@ -3539,12 +3971,14 @@
                 "Drama",
                 "Comedy"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 155773,
@@ -3554,12 +3988,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 181196,
@@ -3569,12 +4005,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 159181,
@@ -3585,12 +4023,14 @@
                 "Biography",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 141219,
@@ -3600,12 +4040,14 @@
             "movie_genre": [
                 "Comedy"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 172301,
@@ -3615,7 +4057,7 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi",
@@ -3624,7 +4066,9 @@
                 "Kannada",
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 157196,
@@ -3635,12 +4079,14 @@
                 "Adventure",
                 "Epic"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 155596,
@@ -3651,12 +4097,14 @@
                 "Drama",
                 "Horror"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 152425,
@@ -3667,12 +4115,14 @@
                 "Drama",
                 "Romance"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 170759,
@@ -3682,12 +4132,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 164070,
@@ -3698,12 +4150,14 @@
                 "Drama",
                 "Crime"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 162315,
@@ -3713,12 +4167,14 @@
             "movie_genre": [
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 160816,
@@ -3728,12 +4184,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 172421,
@@ -3743,12 +4201,14 @@
             "movie_genre": [
                 "Biography"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 155601,
@@ -3758,12 +4218,14 @@
             "movie_genre": [
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 164616,
@@ -3774,14 +4236,16 @@
                 "Biography",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi",
                 "Punjabi",
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 170361,
@@ -3793,13 +4257,15 @@
                 "Action",
                 "Historical"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi",
                 "Marathi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 182500,
@@ -3810,12 +4276,14 @@
                 "Mythological",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 178202,
@@ -3828,7 +4296,7 @@
                 "Drama",
                 "Epic"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi",
@@ -3836,7 +4304,9 @@
                 "Tamil",
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 392,
@@ -3847,12 +4317,14 @@
                 "Action",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177282,
@@ -3862,12 +4334,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 154546,
@@ -3878,12 +4352,14 @@
                 "Drama",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 143532,
@@ -3893,12 +4369,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 165895,
@@ -3908,12 +4386,14 @@
             "movie_genre": [
                 "Dark Comedy"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 157415,
@@ -3923,12 +4403,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 143560,
@@ -3939,12 +4421,14 @@
                 "Horror",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 154550,
@@ -3955,12 +4439,14 @@
                 "Drama",
                 "Romantic"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 163587,
@@ -3970,12 +4456,14 @@
             "movie_genre": [
                 "Biography"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 171776,
@@ -3986,12 +4474,14 @@
                 "Drama",
                 "War"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 155362,
@@ -4001,12 +4491,14 @@
             "movie_genre": [
                 "Action"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 160589,
@@ -4017,12 +4509,14 @@
                 "Drama",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 152451,
@@ -4033,12 +4527,14 @@
                 "Action",
                 "Superhero"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 172419,
@@ -4048,12 +4544,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 144664,
@@ -4065,12 +4563,14 @@
                 "Epic",
                 "Period"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 159119,
@@ -4081,12 +4581,14 @@
                 "Action",
                 "Comedy"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 145423,
@@ -4097,14 +4599,16 @@
                 "Action",
                 "Romance"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi",
                 "Tamil",
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 162651,
@@ -4114,12 +4618,14 @@
             "movie_genre": [
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 638,
@@ -4129,12 +4635,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 155771,
@@ -4145,12 +4653,14 @@
                 "Action",
                 "Crime"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 183086,
@@ -4160,12 +4670,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 163774,
@@ -4176,12 +4688,14 @@
                 "Drama",
                 "Romance"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 143408,
@@ -4192,12 +4706,14 @@
                 "War",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 164550,
@@ -4208,12 +4724,14 @@
                 "Period",
                 "War"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 163824,
@@ -4224,12 +4742,14 @@
                 "Drama",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 162720,
@@ -4239,12 +4759,14 @@
             "movie_genre": [
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 143120,
@@ -4255,12 +4777,14 @@
                 "Drama",
                 "Biopic"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 144147,
@@ -4271,12 +4795,14 @@
                 "Comedy",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 163584,
@@ -4286,12 +4812,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177470,
@@ -4303,7 +4831,7 @@
                 "Drama",
                 "Historical"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi",
@@ -4313,7 +4841,9 @@
                 "Telugu",
                 "Marathi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 157801,
@@ -4324,12 +4854,14 @@
                 "Horror",
                 "Comedy"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 162546,
@@ -4340,12 +4872,14 @@
                 "Drama",
                 "Period"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 142574,
@@ -4356,12 +4890,14 @@
                 "Comedy",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 176961,
@@ -4371,12 +4907,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177010,
@@ -4386,12 +4924,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 165462,
@@ -4401,12 +4941,14 @@
             "movie_genre": [
                 "War"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177281,
@@ -4416,12 +4958,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 183084,
@@ -4432,12 +4976,14 @@
                 "Mystery",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 156178,
@@ -4448,7 +4994,7 @@
                 "Crime",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi",
@@ -4457,7 +5003,9 @@
                 "Kannada",
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 165875,
@@ -4468,12 +5016,14 @@
                 "Romance",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 179673,
@@ -4484,12 +5034,14 @@
                 "Action",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 172797,
@@ -4500,12 +5052,14 @@
                 "Drama",
                 "Action"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 181773,
@@ -4516,12 +5070,14 @@
                 "Drama",
                 "Action"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 173276,
@@ -4533,12 +5089,14 @@
                 "Drama",
                 "Sport"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 181834,
@@ -4549,12 +5107,14 @@
                 "Action",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 169188,
@@ -4565,13 +5125,15 @@
                 "Action",
                 "Romance"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu",
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 163581,
@@ -4582,12 +5144,14 @@
                 "Action",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 181369,
@@ -4597,13 +5161,15 @@
             "movie_genre": [
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu",
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 179366,
@@ -4613,12 +5179,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 157804,
@@ -4628,12 +5196,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 159106,
@@ -4644,12 +5214,14 @@
                 "Action",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 170419,
@@ -4659,12 +5231,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 164061,
@@ -4675,12 +5249,14 @@
                 "Action",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 182357,
@@ -4690,7 +5266,7 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu",
@@ -4699,7 +5275,9 @@
                 "Malayalam",
                 "Kannada"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 145125,
@@ -4710,12 +5288,14 @@
                 "Romance",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 173473,
@@ -4726,12 +5306,14 @@
                 "Suspense",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 160518,
@@ -4741,12 +5323,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 181830,
@@ -4756,12 +5340,14 @@
             "movie_genre": [
                 "Action"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 174472,
@@ -4771,12 +5357,14 @@
             "movie_genre": [
                 "Horror"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 168316,
@@ -4789,7 +5377,7 @@
                 "Fantasy",
                 "Period"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu",
@@ -4798,7 +5386,9 @@
                 "Tamil",
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 183375,
@@ -4808,12 +5398,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 179328,
@@ -4823,12 +5415,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 162747,
@@ -4839,12 +5433,14 @@
                 "Sci-Fi",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 179323,
@@ -4854,12 +5450,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 172412,
@@ -4869,12 +5467,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 175193,
@@ -4884,12 +5484,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 159187,
@@ -4899,12 +5501,14 @@
             "movie_genre": [
                 "Action"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 175937,
@@ -4915,12 +5519,14 @@
                 "Horror",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 161630,
@@ -4932,12 +5538,14 @@
                 "Fantasy",
                 "Romance"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 163574,
@@ -4950,12 +5558,14 @@
                 "Family",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 178311,
@@ -4966,12 +5576,14 @@
                 "Action",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 184226,
@@ -4982,13 +5594,15 @@
                 "Action",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu",
                 "Kannada"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 165833,
@@ -4999,12 +5613,14 @@
                 "Adventure",
                 "Action"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 146276,
@@ -5015,12 +5631,14 @@
                 "Crime",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 178128,
@@ -5030,7 +5648,7 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu",
@@ -5039,7 +5657,9 @@
                 "Tamil",
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 163125,
@@ -5050,7 +5670,7 @@
                 "Action",
                 "War"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu",
@@ -5059,7 +5679,9 @@
                 "Kannada",
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 172434,
@@ -5069,12 +5691,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 167570,
@@ -5084,12 +5708,14 @@
             "movie_genre": [
                 "Suspense"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 162969,
@@ -5100,12 +5726,14 @@
                 "Drama",
                 "Historical"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 173404,
@@ -5115,12 +5743,14 @@
             "movie_genre": [
                 "Melodramas"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 185027,
@@ -5131,12 +5761,14 @@
                 "Action",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 171668,
@@ -5146,12 +5778,14 @@
             "movie_genre": [
                 "Action"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 172023,
@@ -5161,12 +5795,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 159546,
@@ -5177,12 +5813,14 @@
                 "Dark Comedy",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 171968,
@@ -5192,12 +5830,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177283,
@@ -5207,12 +5847,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 175956,
@@ -5223,12 +5865,14 @@
                 "Action",
                 "Sport"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 175963,
@@ -5239,12 +5883,14 @@
                 "Horror",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 163195,
@@ -5256,12 +5902,14 @@
                 "Adventure",
                 "Comedy"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 178243,
@@ -5275,12 +5923,14 @@
                 "Family",
                 "Sci-Fi"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 183060,
@@ -5290,12 +5940,14 @@
             "movie_genre": [
                 "Animation"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 175738,
@@ -5305,12 +5957,14 @@
             "movie_genre": [
                 "Horror"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 185107,
@@ -5320,12 +5974,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 164547,
@@ -5337,12 +5993,14 @@
                 "Adventure",
                 "Sci-Fi"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 161168,
@@ -5352,12 +6010,14 @@
             "movie_genre": [
                 "Horror"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 173095,
@@ -5368,12 +6028,14 @@
                 "Crime",
                 "Horror"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 179360,
@@ -5383,12 +6045,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 178886,
@@ -5398,12 +6062,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 167234,
@@ -5413,12 +6079,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 154967,
@@ -5430,12 +6098,14 @@
                 "Action",
                 "Adventure"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 174469,
@@ -5445,12 +6115,14 @@
             "movie_genre": [
                 "Animation"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177603,
@@ -5462,12 +6134,14 @@
                 "Political",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 176743,
@@ -5479,12 +6153,14 @@
                 "Crime",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 175191,
@@ -5494,12 +6170,14 @@
             "movie_genre": [
                 "Horror"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 172869,
@@ -5509,12 +6187,14 @@
             "movie_genre": [
                 "Horror"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 175734,
@@ -5524,12 +6204,14 @@
             "movie_genre": [
                 "Horror"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 175203,
@@ -5539,12 +6221,14 @@
             "movie_genre": [
                 "Horror"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 151965,
@@ -5555,12 +6239,14 @@
                 "Animation",
                 "Adventure"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 178238,
@@ -5575,12 +6261,14 @@
                 "Drama",
                 "Fantasy"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 174477,
@@ -5592,12 +6280,14 @@
                 "Crime",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 161179,
@@ -5608,12 +6298,14 @@
                 "Comedy",
                 "Crime"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 176543,
@@ -5625,12 +6317,14 @@
                 "Fantasy",
                 "Musical"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177299,
@@ -5644,12 +6338,14 @@
                 "Family",
                 "Mystery"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "English"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 155795,
@@ -5660,7 +6356,7 @@
                 "Drama",
                 "Historical"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil",
@@ -5670,7 +6366,9 @@
                 "Malayalam",
                 "Bengali"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 173971,
@@ -5680,12 +6378,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 144791,
@@ -5695,12 +6395,14 @@
             "movie_genre": [
                 "Action"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 179321,
@@ -5711,12 +6413,14 @@
                 "Fantasy",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 178141,
@@ -5726,12 +6430,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 172677,
@@ -5741,12 +6447,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 172316,
@@ -5756,12 +6464,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 141196,
@@ -5772,12 +6482,14 @@
                 "Action",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 163207,
@@ -5787,12 +6499,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 153634,
@@ -5802,12 +6516,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 172905,
@@ -5817,12 +6533,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 156965,
@@ -5833,12 +6551,14 @@
                 "Comedy",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 164071,
@@ -5849,12 +6569,14 @@
                 "Drama",
                 "Family"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 171374,
@@ -5865,13 +6587,15 @@
                 "Action",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil",
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 171628,
@@ -5881,7 +6605,7 @@
             "movie_genre": [
                 "Biography"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil",
@@ -5890,7 +6614,9 @@
                 "Kannada",
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 162333,
@@ -5901,12 +6627,14 @@
                 "Action",
                 "Superhero"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 184446,
@@ -5916,12 +6644,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 167318,
@@ -5931,14 +6661,16 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil",
                 "Telugu",
                 "Hindi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 173228,
@@ -5949,12 +6681,14 @@
                 "Drama",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177390,
@@ -5964,12 +6698,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 173440,
@@ -5979,12 +6715,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 176812,
@@ -5995,12 +6733,14 @@
                 "Action",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 166498,
@@ -6012,12 +6752,14 @@
                 "Social",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 176127,
@@ -6027,12 +6769,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 162388,
@@ -6043,12 +6787,14 @@
                 "Action",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 172228,
@@ -6059,12 +6805,14 @@
                 "Action",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 175721,
@@ -6074,12 +6822,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 161191,
@@ -6091,12 +6841,14 @@
                 "Drama",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 183794,
@@ -6108,7 +6860,7 @@
                 "Period",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil",
@@ -6117,7 +6869,9 @@
                 "Kannada",
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 159462,
@@ -6127,12 +6881,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 152863,
@@ -6143,13 +6899,15 @@
                 "Comedy",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil",
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 159183,
@@ -6160,12 +6918,14 @@
                 "Adventure",
                 "Historical"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 160828,
@@ -6176,12 +6936,14 @@
                 "Action",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 142844,
@@ -6193,12 +6955,14 @@
                 "Historical",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 162321,
@@ -6209,12 +6973,14 @@
                 "Drama",
                 "Sport"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 165884,
@@ -6225,12 +6991,14 @@
                 "Action",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 183918,
@@ -6241,12 +7009,14 @@
                 "Crime",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 173517,
@@ -6256,13 +7026,15 @@
             "movie_genre": [
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil",
                 "Telugu"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 168832,
@@ -6272,12 +7044,14 @@
             "movie_genre": [
                 "Suspense"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 169535,
@@ -6288,12 +7062,14 @@
                 "Action",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 173940,
@@ -6303,12 +7079,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 172794,
@@ -6318,12 +7096,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 165206,
@@ -6334,7 +7114,7 @@
                 "Action",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Tamil",
@@ -6342,7 +7122,9 @@
                 "Hindi",
                 "Kannada"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 161618,
@@ -6353,12 +7135,14 @@
                 "Action",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 173461,
@@ -6370,13 +7154,15 @@
                 "Suspense",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Malayalam",
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 174728,
@@ -6387,12 +7173,14 @@
                 "Crime",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 172436,
@@ -6402,13 +7190,15 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Malayalam",
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177729,
@@ -6418,12 +7208,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 162974,
@@ -6434,12 +7226,14 @@
                 "Drama",
                 "Fantasy"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 157428,
@@ -6450,12 +7244,14 @@
                 "Drama",
                 "War"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 166128,
@@ -6466,12 +7262,14 @@
                 "Thriller",
                 "Fantasy"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 157430,
@@ -6482,12 +7280,14 @@
                 "Action",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 177121,
@@ -6498,12 +7298,14 @@
                 "Family",
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 157806,
@@ -6515,12 +7317,14 @@
                 "Crime",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 167825,
@@ -6530,12 +7334,14 @@
             "movie_genre": [
                 "Action"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 185104,
@@ -6546,12 +7352,14 @@
                 "Drama",
                 "War"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 145425,
@@ -6562,12 +7370,14 @@
                 "Psychological",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Malayalam"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 167647,
@@ -6578,12 +7388,14 @@
                 "Crime",
                 "Thriller"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Marathi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 176643,
@@ -6595,7 +7407,7 @@
                 "Historical",
                 "Period"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Marathi",
@@ -6605,7 +7417,9 @@
                 "Telugu",
                 "Tamil"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 164551,
@@ -6615,12 +7429,14 @@
             "movie_genre": [
                 "Drama"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Punjabi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 185113,
@@ -6632,12 +7448,14 @@
                 "Drama",
                 "Romance"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Punjabi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 143517,
@@ -6648,12 +7466,14 @@
                 "Drama",
                 "Comedy"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Punjabi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         },
         {
             "id": 166348,
@@ -6663,12 +7483,14 @@
             "movie_genre": [
                 "Comedy"
             ],
-            "releaseDate": null,
+            "releaseDate": "06-12-2024",
             "rank": 1,
             "language_group": [
                 "Punjabi"
             ],
-            "isSubscribed": 0,  "is_premier":true
+            "isSubscribed": 0,
+            "is_premier": true,
+            "duration": "2hr"
         }
     ]
 }

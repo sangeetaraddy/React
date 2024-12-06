@@ -1,7 +1,7 @@
 import * as actionType from "./actionTypes";
 
 const initState = {
-  movies: [],
+  movieDetails: {},
   isError: false,
   isLoading: false,
 };
@@ -16,7 +16,7 @@ export const movieReducer = (state = initState, action) => {
     case actionType.GET_MOVIE_SUCCESS:
       return {
         ...state,
-        movies: action.payload,
+        movieDetails: action.payload,
         isLoading: false,
       };
     case actionType.GET_MOVIE_FAILURE:
