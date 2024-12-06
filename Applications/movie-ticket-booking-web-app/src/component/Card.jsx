@@ -21,8 +21,10 @@ const Card = ({ moviePosterUrl = "https://in.bmscdn.com/discovery-catalog/events
     return (
         <div onClick={handleChange} className="card">
             <img src={moviePosterUrl} alt={movie_name} />
+            <button type="button"  style={{ backgroundColor: "#ae4b8c", color: "#ffffff",borderRadius:0 }} className="btn btn-warning">Book</button>
             <div className="title">{movie_name}</div>
             <div className="genre">{movie_genre?.map((genre, index) => index === movie_genre.length - 1 ? genre : genre + "/")}</div>
+        
         </div>
     )
 }

@@ -1,6 +1,7 @@
 import React from "react";
 import { useSelector } from "react-redux";
 import styles from "../HomePage/RecommendedMovies.css";
+import Card from "../Card";
 
 
 export const LastestMovies = () => {
@@ -17,12 +18,19 @@ export const LastestMovies = () => {
             <div style={{
                 display: "flex",
                 justifyContent: "center",
-                padding:"6px"
+                padding: "6px"
             }}>
                 <h3>LastestMovies</h3>
             </div>
 
-            <div className={styles.parent__text}>
+            <div className="row">
+                {
+                    filteredRecommendedMovies?.map(movie => (
+                        <div className="col-md-3">
+                               <Card {...movie} key={movie.id} movie={movie} />
+                         </div>
+                    ))
+                }
             </div>
         </div>
     )
